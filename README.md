@@ -11,6 +11,7 @@ entrevistas.
 
 O Projeto e fontes de dados foram realizados para solucionar o Desafio "[Exploring Mental Health Data](https://www.kaggle.com/competitions/playground-series-s4e11/overview)" do [Kaggle](https://www.kaggle.com/) 
 
+A apresentação do projeto pode ser visualizada pelo [Canvas](https://www.canva.com/design/DAG5_z7YoQE/b7W7sX7lsTJnlyby00rgDQ/edit?utm_content=DAG5_z7YoQE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) ou acessando os arquivos na pasta [apresentacao](/apresentacao/)
 
 ## 📈 Resultados
 
