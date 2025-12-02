@@ -56,11 +56,5 @@ Os resultados finais mostraram que o modelo **Random Forest** obteve o melhor de
     pip install -r requirements.txt
     ```
 
-3.  Execute o notebook principal:
-
-    ``` bash
-    jupyter notebook
-    ```
-
-4.  Abra o arquivo do projeto e execute as células para reproduzir o
+3.  Abra o arquivo do projeto e execute as células para reproduzir o
     processo.
