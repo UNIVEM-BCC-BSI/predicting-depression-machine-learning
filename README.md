@@ -19,6 +19,18 @@ Os resultados finais mostraram que o modelo **Random Forest** obteve o melhor de
 -   Acurácia: **93,59%**
 
 
+## 📂 Estrutura de Arquivos
+
+    📁 PREDICTING-DEPRESSION/
+    ├── 📁 data/                    -- Pasta de dados
+    │   ├── sample_submission.csv   -- Base do submission
+    │   ├── test.csv                -- dados de prova
+    │   ├── train.csv               -- dados de treino
+    │
+    ├── code.ipynb          -- codigo fonte da solucao
+    ├── README.md           -- README
+    ├── requirements.txt    -- dependencias
+    ├── submission.csv      -- arquivo de submission
 
 ## 🛠️ Tecnologias Utilizadas
 
