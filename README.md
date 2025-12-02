@@ -23,6 +23,7 @@ Os resultados finais mostraram que o modelo **Random Forest** obteve o melhor de
 ## 📂 Estrutura de Arquivos
 
     📁 PREDICTING-DEPRESSION/
+    ├── 📁 apresentacao/            -- Arquivos de apresentacao
     ├── 📁 data/                    -- Pasta de dados
     │   ├── sample_submission.csv   -- Base do submission
     │   ├── test.csv                -- dados de prova
